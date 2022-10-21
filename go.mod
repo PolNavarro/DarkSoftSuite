@@ -1,4 +1,4 @@
-module github.com/PolNavarro
+module github.com/PolNavarro/DarkSoftSuite
 
 go 1.19
 
